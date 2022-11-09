@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-git clone https://github.com/boo-shehab/Microverse-Student-project-1.git
+git clone https://github.com/boo-shehab/second-template.git
 
 
 ## 👤 Author1
